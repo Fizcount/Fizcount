@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning HTML,CSS, JAVASCRIPT 
 - 💞️ I’m looking to collaborate on my self
 - 📫 How to reach me faizramadhan4444@gmail.com
-- 😄 Pronouns:Air-Strike
+- 😄 Pronouns: Attack Helicopter
 - ⚡ Fun fact: I'm new
 
 <!---
